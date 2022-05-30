@@ -33,6 +33,7 @@ Clone the repository including the dependencies:
 
 ```
 git clone --recurse-submodules --remote-submodules https://github.com/opensemanticsearch/open-semantic-search.git
+git clone --recurse-submodules  https://github.com/opensemanticsearch/open-semantic-search.git
 cd open-semantic-search
 ```
 
